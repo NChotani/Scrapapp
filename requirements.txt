@@ -1,0 +1,13 @@
+streamlit
+beautifulsoup4
+pandas
+requests
+lxml
+openpyxl
+fake-useragent
+cloudscraper
+undetected-chromedriver
+selenium
+shutil
+webdriver-manager
+free-proxy==1.1.0  # Fixed version
